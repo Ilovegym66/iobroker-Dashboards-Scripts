@@ -1,0 +1,2 @@
+Slideshow for Synology Photos 
+
